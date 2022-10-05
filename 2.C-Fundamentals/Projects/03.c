@@ -1,4 +1,4 @@
-/* A program that takes user input to calculates the volume of a sphere.*/
+/* A program that takes user input to calculate the volume of a sphere.*/
 
 #include <stdio.h>
 
