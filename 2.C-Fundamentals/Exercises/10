@@ -1,0 +1,4 @@
+The space between return and 0.
+The space between int and height.
+The space between int and main.
+The line break after the #include <stdio.h> directive. 
